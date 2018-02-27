@@ -1,2 +1,2 @@
 # README
-A simple FileCabonet app made in Ruby on Rails.
+A simple File Cabinet app made in Ruby on Rails.
